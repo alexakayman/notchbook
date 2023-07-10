@@ -12,6 +12,12 @@ This digit becomes a decimal which has a an exact fraction.
 
 To read the book, just divide the fraction and decode the decimal.
 
+### How To Run It?
+
+1. Clone the repo
+2. Open up VSCode/Your IDE
+3. Run the script
+
 ## How It Works
 
 1. Use the key to encode a given sentence
