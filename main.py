@@ -113,7 +113,7 @@ def run(sentence):
         sentence = input("What sentence would you like to encode? ")
         run(sentence)
     else:
-        print("Okay! Done")
+        print("Shutting off!")
 
 sentence = input("What sentence would you like to encode? ")
 run(sentence)

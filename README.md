@@ -15,7 +15,7 @@ To read the book, just divide the fraction and decode the decimal.
 ## How It Works
 
 1. Use the key to encode a given sentence
-2. Find a numerator and denomoninator whose fraction results in the encoded decimal. Theoretically, these two integers could be etched into a metal rod and the notch length would be measured.
+2. Find a numerator and denominator whose fraction results in the encoded decimal. Theoretically, these two integers could be etched into a metal rod and the notch length would be measured.
 3. Finally, decode that decimal.
 
 Inspiration: https://www.tiktok.com/@mathletters/video/7179953778475437354?is_from_webapp=1&sender_device=pc&web_id=7243081339755234862
